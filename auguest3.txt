@@ -1,0 +1,60 @@
+Project Overview
+
+Your task is to build a AccioJob Food Delivery Website! Here, you'll turn a FIGMA design into a working webpage. The design shows a fun and user-friendly food delivery service. Your main task? Make this design come alive using code.
+
+Design Link:
+
+Figma Link- https://www.figma.com/file/DJ963qcwn7zPqgngJtvFZI/Frontend-1?type=design&node-id=0%3A1&mode=design&t=01AucyJdNA1STt4d-1
+
+Webpage Sections Breakdown:
+
+Navbar and Header:
+
+This is the first thing you'll see. It sticks to the top as you scroll. The main message? 'Get your cuisine delivered right to your door'. There are also cool pictures of a cartoon guy on a scooter, making the site feel fun. Plus, there's a menu to help users get around the site easily.
+
+About Us:
+
+This section tells you all about AccioJob's food delivery service. It mentions how proud we are to be a top choice in our town. There's also a bit about delivering your favorite food right to your doorstep.
+
+Special Recipes:
+
+AccioJob is proud of its unique dishes. In "Try Our Special Recipes", we show off these dishes. It's like a sneak peek into our food world, and we hope it makes users want to try everything.
+
+Testimonials:
+
+This is where our happy customers talk. In “What our Customers are saying”, you'll find real comments from real people who've tried our service. It shows we're trustworthy and good at what we do.
+
+Call to Action:
+
+Right at the end, we have a special section. It's all about our mobile app. We use catchy phrases like “Never Feel Hungry” to make users want to download our app. It's our way of saying, "Hey, want good food easily? Use our app!". 
+
+Now, it's time for you to bring this design to life. Good luck!
+
+Marking scheme
+
+Header Design and Navbar- 20 marks 
+Accurate representation and placement of the proposition 
+Correct and visually appealing inclusion of the two cartoon images 
+Sticky design of the navigation menu 
+Responsiveness and alignment of the header on different devices
+
+About Us Section - 20 marks 
+Effective portrayal of “Why we are Best in our Town” segment 
+Artistic and thematic representation of “Choose your favourite food at your door” section 
+Overall layout and visual appeal, staying true to the design
+
+Special Recipes Segment - 20 marks 
+Successful display and emphasis on the service's unique offerings 
+Creative presentation, capturing the brand essence 
+Responsiveness and structured alignment across devices
+
+Testimonials Section - 20 marks 
+Authentic and visually appealing design of the “What our Customers are saying” section 
+User testimonials 
+Responsiveness and clarity on various devices
+
+Call to Action Effectiveness - 15 marks 
+Prominence and clarity of the mobile app emphasis 
+Similar structuere the linksl hierarchy
+
+Deployment - 5 marks
